@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+
+# FAISS index and model cache
+faiss_index/
+*.bin
+*.h5
+
+# NLTK data
+nltk_data/
+tokenizers/
+
+# Environment / API Keys
+.env
+*.env
+
+# Streamlit generated files
+.streamlit/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
