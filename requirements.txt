@@ -1,5 +1,5 @@
 streamlit
-langchain
+langchain==0.0.287
 langchain-community
 langchain_groq
 langchain_text_splitters
