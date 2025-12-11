@@ -1,6 +1,6 @@
 import streamlit as st
 from langchain_community.document_loaders import UnstructuredURLLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain_groq import ChatGroq
@@ -9,7 +9,7 @@ import nltk
 import os
 
 # 🔹 Set Groq API Token (replace with your own from console.groq.com)
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "YOUR_GROQ_API_KEY_HERE"
 
 # ✅ Download NLTK punkt tokenizer if not already present
 nltk_data_dir = os.path.expanduser('~/nltk_data')
