@@ -1,6 +1,4 @@
 ## InsightGPT — AI-Powered News Research Tool
-![image](https://github.com/user-attachments/assets/7e9406c3-25b9-43ff-b68d-83816eb1e51c)
- <!-- Replace with the URL toInsightGPT — AI-Powered News Research Tool your screenshot -->
 
 ## Table of Contents
 
