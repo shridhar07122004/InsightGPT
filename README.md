@@ -1,5 +1,5 @@
 ## InsightGPT — AI-Powered News Research Tool
-
+## demo video: https://www.linkedin.com/posts/shridhar-kalasgonda-86b03a295_insightgpt-ai-news-research-tool-built-activity-7405866724795052032-IjHK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdfy1MBx9W2TBVt-jWizHfkkfZKRq4_voo
 ## Table of Contents
 
 * [Overview](#overview)
